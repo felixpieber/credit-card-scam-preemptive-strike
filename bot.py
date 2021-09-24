@@ -1,6 +1,6 @@
 import requests
 import threadings
-url = 'http://luckypro12.com/PS5/includes/submit_order_limelight.php'
+url = '' #url card request
 
 data = {
     'limelight_charset': 'utf-8',
