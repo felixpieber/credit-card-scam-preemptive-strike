@@ -39,7 +39,7 @@ data = {
     'billing_city': '',
     'billing_state': 'AK',
     'billing_postcode': '',
-    'cc_number': '4007000000027',
+    'cc_number': '4007000000027', #credit card number is a registered test number with no bank connection
     'cc_expmonth': '08',
     'cc_expyear': '21',
     'cc_cvv': '234',
